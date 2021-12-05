@@ -1,0 +1,53 @@
+body{
+    background-color:  rgb(58 221 126 / 62%);
+    font-family: sans-serif;
+}
+
+.foto1{
+    width: 250px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(28 193 137);
+    border-width: 2px;
+}
+
+h1{
+    margin-bottom: 0;
+    color: rgb(0, 42, 28);
+}
+
+h2{
+    margin-top: 0;
+    font-weight: 100;
+    font-style: italic;
+    font-size: 17px;
+    color: rgb(0, 42, 28);
+}
+
+p{
+   color: rgb(0, 42, 28);; 
+}
+
+h3{
+    color: rgb(0, 42, 28);
+}
+.site{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.prefil{
+    text-align: center;
+}
+
+.socialicons{
+    width: 30px;
+}
+
+.sociallinks{
+    text-decoration: none;
+}
+
+.main{
+    margin: 0 20px;
+}

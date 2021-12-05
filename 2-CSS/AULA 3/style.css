@@ -1,0 +1,9 @@
+body{
+background-image: url(background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+P{
+    color:rgb(22, 22, 22)
+}
